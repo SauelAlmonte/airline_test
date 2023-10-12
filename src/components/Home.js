@@ -2,9 +2,9 @@ import React from "react";
 
 const Home = () => {
   return (
-    <main className="h-[100vh] border-4">
-      <div className="h-1/2">
-        <h1 className="flex justify-center items-center">Main Content</h1>
+    <main className="flex justify-center items-center h-[50vh] border-4">
+      <div className="flex justify-center items-center w-full h-1/2 border-4">
+        <h1 className="">Main Content</h1>
       </div>
     </main>
   );
